@@ -8,7 +8,7 @@ The UNet architecture has been widely adopted in medical image segmentation task
 by Flair type and Axial Position.
 
 ## Demo
-[![Demo](imgs/notTumor.png)](imgs/Demo.mp4)
+[![Demo](imgs/notTumor.png)](https://drive.google.com/file/d/18_u50VoUhmz_tttD_QC8_n8m9cGEVgQP/view?usp=drive_link)
 
 
 ### UNET Model Architecture
